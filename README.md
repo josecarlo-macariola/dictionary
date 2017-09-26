@@ -1,6 +1,6 @@
 # Dictionary
 
-**TODO: Add description**
+**Dictionary App for hangman game**
 
 ## Installation
 
